@@ -13,7 +13,7 @@ class AddBook extends Component{
             genre:'',
             authorId:''
 
-        };
+        }
     }
     displayAuthors(){
         var data = this.props.getAuthorsQuery;
