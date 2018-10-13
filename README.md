@@ -1,7 +1,7 @@
 # Reading-List
 React app with node and GraphQL at server-side
 
-## CLient Side
+## Client Side
 <ul>
   <li>1. Install create-react-app (A Boost start with react) using "npm install create-react-app"</li>
   <li>2. create react app using "create-react-app client" </li>
